@@ -6,7 +6,7 @@ The model extracts visual features using a pre-trained <u> Xception network</u> 
 ## Features
 - Text preprocessing, tokenization, and vocabulary building
 - CNN-based feature extraction using Xception
-- LST<-based caption generation
+- LSTM-based caption generation
 - Separate training and inference scripts (main.py + test.py)
 - Ability to caption unseen images
 
